@@ -2,3 +2,30 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.navbar {
+  font-size: 15px;
+  font-weight: 200;
+  margin-left: 50px;
+}
+
+.navd {
+  margin-right: 40px;
+}
+
+button {
+  padding-left: 0;
+  color: white;
+  background-color: #c40d2f;
+  border-radius: 40px;
+  margin-left: 40px;
+  width: 300px;
+  height: 60px;
+  display: inline-block;
+}
+input {
+  padding: 15px;
+  border: 0px;
+  text-decoration: underline;
+  font-size: 15px;
+}
